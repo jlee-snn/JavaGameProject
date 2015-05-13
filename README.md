@@ -9,7 +9,8 @@ Peicong Liu
 Jian Liu
 
 Project Goal: To create an interactive java applet that utilizes data structure concepts. 
-Note: All graphics/sprites used for final implementation were originally made by Joseph using Pixelator and Photoshop.
+
+Note: All graphics/sprites used for final implementation were originally made using Pixelator and Photoshop (Joseph Lee).
 
 
 ## How To Run
